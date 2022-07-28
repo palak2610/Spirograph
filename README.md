@@ -13,4 +13,5 @@ Different spirograph using turtle
 
 # [Tire1](https://github.com/palak2610/Spirograph/blob/main/Tire1.py)
 
-![Linkedin](https://user-images.githubusercontent.com/52192460/181528737-75eead6a-e252-43f1-a018-9f28d4f4ab01.png)
+![Linkedin](https://user-images.githubusercontent.com/52192460/181530536-e04a2641-b33b-461c-98f4-fdbedd6cabdc.png)
+
