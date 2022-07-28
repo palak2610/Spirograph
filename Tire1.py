@@ -1,23 +1,16 @@
-from turtle import *
-
-speed(10)
-bgcolor("black")
-pencolor("blue")
-
-def pattern():
-  for i in range(5):
-    forward(50)
-    right(40)
-  forward(50)
-  left(40)
-  for i in range(4):
-    forward(50)
-    right(40)
-  forward(50)
-  left(90)
-  forward(50)
-
-for count in range(30):
-  pattern()
-
-mainloop()
+import turtle
+turtle.speed(0)
+turtle.bgcolor("black")
+for i in range(5):
+  for colours in ("red" ,"magenta","white","cyan","green","yellow","blue","purple","pink"):
+    turtle.color(colours)
+    turtle.pensize(3)
+    turtle.left(12)
+    turtle.forward(200)
+    turtle.left(90)
+    turtle.forward(200)
+    turtle.left(90)
+    turtle.forward(200)
+    turtle.left(90)
+    turtle.forward(200)
+    turtle.left(90)
