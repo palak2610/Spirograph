@@ -5,7 +5,7 @@ Turtle is a pre-installed Python library that enables users to create pictures a
 Getting Started With turtle
 Before you continue, there are two important things that you’ll need to do to make the most of this tutorial:
 
-Python Environment: Make sure that you’re familiar with your programming environment. You can use applications like IDLE or Jupyter Notebook to program with turtle. However, if you’re not comfortable with them, then you can program with the REPL, which you’ll use in this tutorial.
+Python Environment: Make sure that you’re familiar with your programming environment. You can use applications like IDLE or Jupyter Notebook to program with turtle. However, if you’re not comfortable with them, then you can program with the REPL.
 
 Python Version: Ensure that you have version 3 of Python on your computer. If not, then you can download it from the Python website. For help setting things up, check out Python 3 Installation & Setup Guide.
 
